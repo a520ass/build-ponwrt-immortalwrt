@@ -1,8 +1,4 @@
-![精简自用，请自己 FORK 后编译固件!!!](assets/fork-build-warning.svg)
-
-# Nokia XG-040G-MD 精简版 PonWrt 固件
-
-仅编译 **Nokia XG-040G-MD（UBI）**，基于 Airoha AN7581 平台。构建源码使用 [1018ji/merge-immortalwrt-ponwrt](https://github.com/1018ji/merge-immortalwrt-ponwrt) 的 `master` 分支。
+基于 Airoha AN7581 平台。构建源码使用 [1018ji/merge-immortalwrt-ponwrt](https://github.com/1018ji/merge-immortalwrt-ponwrt) 的 `master` 分支。
 
 保留 PON 管理、基础 IPv6、BBR、LuCI 中文界面和 Bootstrap 主题，精简 USB/存储、无线、VPN、网络扩展及调试工具。
 
